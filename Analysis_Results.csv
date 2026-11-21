@@ -1,0 +1,13 @@
+Metric,Value,Unit
+Dataset orders,1000.0,count
+Total sales,139399439.65,INR
+Average order sales,139399.43965000001,INR/order
+Median order sales,108594.025,INR/order
+Electronics sales,50778581.7,INR
+Electronics share,36.42667562186288,%
+Top city sales (Patna),19285966.89,INR
+Male mean order sales,141807.3397847358,INR/order
+Female mean order sales,136883.20862985688,INR/order
+Welch t statistic,0.6826103913380815,
+Welch p value,0.49501147851458344,
+IQR flagged outliers,19.0,count
